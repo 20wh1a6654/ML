@@ -1,0 +1,13 @@
+import pandas as pd
+df = pd.read_csv(r'file:///home/cse/Documents/6621.csv')
+print(df)
+//op:
+   Date        Day      Month
+0    15   Thursday  September
+1    16     Friday  September
+2    14  Wednesday  September
+3    14   Saturday        May
+
+
+
+
